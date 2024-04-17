@@ -1,0 +1,60 @@
+.root {
+    -fx-background-color: #0c7075; 
+}
+
+.menu-bar {
+	-fx-background-color: #000;
+}
+
+.menu .text {
+	-fx-fill: #fff;
+}
+
+.menu-item {
+	-fx-background-color: #0c7075; 
+}
+
+.menu-item:hover {
+	-fx-background-color: #6da5c0; 
+}
+
+.button {
+	-fx-background-color: #6da5c0;
+	-fx-min-width: 50.0px;
+}
+
+.button:hover {
+	-fx-background-color: #0f969c;
+}
+
+.table-view {
+	-fx-background-color: #0c7075;
+}
+
+.table-header-background {
+	-fx-background-color: #000;
+}
+
+.table-row-cell {
+    -fx-background-color: #294d61;
+}
+
+.table-head {
+	-fx-background-color: #fff;
+}
+
+.table-cell .text {
+	-fx-fill: #fff;
+}
+
+.text-field {
+	-fx-pref-width: 200.0px;
+}
+
+.table-view .column-header {
+    -fx-background-color: #000;
+}
+
+.label {
+	-fx-text-fill: #fff;
+}
